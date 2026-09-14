@@ -6,7 +6,9 @@
 
 #
 
-Me chamo Kauã Rodrigues, tenho 21 anos e moro em Santarém - PA. Atualmente curso Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonado por tecnologia, curioso sobre Hardware e fascinado pelo desenvolvimento software.
+Me chamo Kauã Rodrigues, tenho 21 anos e moro em Santarém - PA. Atualmente curso Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonado por tecnologia, curioso sobre Hardware e fascinado pelo desenvolvimento de software.
+
+Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me tornar Engenheiro de Software e desenvolvedor FullStack.
  
 #
 
