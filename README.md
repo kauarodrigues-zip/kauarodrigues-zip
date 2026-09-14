@@ -74,15 +74,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <img
     align="left"
     alt="Java"
@@ -101,11 +92,14 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 
+<br/>
+<br/>
+
 <img
     align="left"
     alt="Dart"
     title="Dart"
-    width="30px"
+    width="33px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"
 />
@@ -117,6 +111,15 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img
@@ -155,6 +158,16 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
 />
+
+<img
+    align="left"
+    alt="AWS"
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+/>
+
 <br/>
 <br/>
 
