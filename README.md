@@ -10,7 +10,7 @@ Me chamo Kauã Rodrigues, tenho 21 anos e moro em Santarém - PA. Atualmente cur
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/fern.gif">
 
 <h3 align="left">Connect with me!</h3>
 
