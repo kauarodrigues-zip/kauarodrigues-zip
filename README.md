@@ -12,7 +12,7 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
  
 #
 
-<img align="right" alt="" height="245px" src="./src/wakeup.gif">
+<img align="right" alt="" height="200px" src="./src/wakeup.gif">
 
 <h3 align="left">Connect with me!</h3>
 
