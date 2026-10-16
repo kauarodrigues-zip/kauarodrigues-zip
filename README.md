@@ -6,9 +6,9 @@
 
 #
 
-Me chamo Kauã Rodrigues, tenho 21 anos e moro em Santarém - PA. Atualmente curso Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonado por tecnologia, curioso sobre Hardware e fascinado pelo desenvolvimento de software.
+Me chamo Kauã Rodrigues, tenho 21 anos e moro em Santarém - PA. Atualmente curso Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonado por tecnologia, curioso sobre hardware e fascinado pelo desenvolvimento de software.
 
-Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me tornar Engenheiro de Software e desenvolvedor FullStack.
+Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tornar Engenheiro de Software e desenvolvedor FullStack.
  
 #
 
@@ -27,7 +27,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -35,7 +34,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -43,7 +41,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -52,7 +49,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Node.js"
     title="Node.js"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
 />
 
@@ -61,7 +57,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Github"
     title="GitHub"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
@@ -70,7 +65,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -79,7 +73,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Java"
     title="Java"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
@@ -88,7 +81,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="SpringBoot"
     title="SpringBoot"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 
@@ -100,7 +92,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Dart"
     title="Dart"
     width="33px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"
 />
 
@@ -109,7 +100,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Flutter"
     title="Flutter"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
 
@@ -118,7 +108,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
@@ -127,7 +116,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="PHP"
     title="PHP"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
@@ -136,7 +124,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Laravel"
     title="Laravel"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
 />
 
@@ -146,7 +133,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="MySQL"
     title="MySQL"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 
@@ -155,7 +141,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="Docker"
     title="Docker"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
 />
 
@@ -164,7 +149,6 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     alt="AWS"
     title="AWS"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
 
@@ -178,8 +162,7 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-one-sooty-87.vercel.app/api?username=kauarodrigues-zip&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-one-sooty-87.vercel.app/api?username=kauarodrigues-zip&show_icons=true&locale=pt-br&include_all_commits=true&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
   
 <img 
@@ -191,8 +174,10 @@ Sou Formado em Gestão de Ti mas atualmente estou migrando de Área para me torn
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
