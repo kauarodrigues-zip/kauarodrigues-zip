@@ -24,7 +24,7 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kauargt05@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://mail.google.com/mail/?view=cm&to=kauargt05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kau%C3%A3-rodrigues-6542102b2/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&color:FFF)](https://www.youtube.com/@DevKauaRodrigues/featured)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&color:FFF)](https://www.instagram.com/kaua_rgt/)
