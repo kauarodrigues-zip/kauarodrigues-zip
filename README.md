@@ -55,9 +55,9 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
 
 <h3 align="left">GitHub Stats</h3>
 
-<p>
-  <img align="left" width="49%" alt="GitHub Stats" src="https://github-readme-stats-one-sooty-87.vercel.app/api?username=kauarodrigues-zip&show_icons=true&locale=pt-br&include_all_commits=true&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
-  <img align="left" width="49%" alt="Linguagens mais usadas" src="https://github-readme-stats-one-sooty-87.vercel.app/api/top-langs/?username=kauarodrigues-zip&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&card_width=467&hide_progress=true" />
+<p align="center">
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats-one-sooty-87.vercel.app/api?username=kauarodrigues-zip&show_icons=true&locale=pt-br&include_all_commits=true&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
+  <img width="48%" alt="Linguagens mais usadas" src="https://github-readme-stats-one-sooty-87.vercel.app/api/top-langs/?username=kauarodrigues-zip&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&card_width=467" />
 </p>
 
 <p align="center">
