@@ -12,13 +12,11 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
 
 <h3 align="left">Projetos ~</h3>
 
-**🛒 MercadoFlow** · *em desenvolvimento*<br>
-Sistema de gestão de chamados de suporte para supermercados, multiempresa, com cinco perfis de acesso e isolamento de dados entre empresas. App em Flutter para web e Android, com notificações push e leitura offline dos chamados. Desenvolvido com Spec-Driven Development e testes de integração com Testcontainers.<br>
-`Java` `Spring Boot` `Flutter` `PostgreSQL` `JWT` `Docker`
+| Projeto | Descrição | Tecnologias |
+|:--|:--|:--|
+| 🛒 **MercadoFlow**<br>*em desenvolvimento* | Sistema de gestão de chamados de suporte para supermercados, multiempresa, com cinco perfis de acesso e isolamento de dados entre empresas. App em Flutter para web e Android, com notificações push e leitura offline. Desenvolvido com Spec-Driven Development e testes de integração com Testcontainers. | `Java` `Spring Boot` `Flutter` `PostgreSQL` `JWT` `Docker` |
+| 🔌 **ResistorLab**<br>*LATEC — UNAMA* | Plataforma educacional de eletrônica: calculadora de resistores (3 a 6 faixas), Lei de Ohm, divisor de tensão e visualização 3D do resistor. Professores criam salas virtuais com questionários em tempo real e acompanham métricas de desempenho dos alunos. | `PHP` `MySQL` `JavaScript` `Canvas API` `OAuth Google` |
 
-**🔌 ResistorLab** · *LATEC — Liga Acadêmica de Tecnologias, UNAMA*<br>
-Plataforma educacional de eletrônica: calculadora de resistores (3 a 6 faixas), Lei de Ohm, divisor de tensão e visualização 3D do resistor. Professores criam salas virtuais com questionários em tempo real e acompanham métricas de desempenho dos alunos. Versão web de um app desktop em Python.<br>
-`PHP` `MySQL` `JavaScript` `Canvas API` `OAuth Google`
  
 #
 
@@ -32,95 +30,22 @@ Plataforma educacional de eletrônica: calculadora de resistores (3 a 6 faixas),
 
 <h3 align="left">My Stack ~</h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-
-<img
-    align="left"
-    alt="SpringBoot"
-    title="SpringBoot"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
+<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <br/>
 <br/>
 
-<img
-    align="left"
-    alt="Flutter"
-    title="Flutter"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-
-<img
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-/>
+<img align="left" alt="Flutter" title="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <br/>
 <br/>
