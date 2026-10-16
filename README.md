@@ -9,6 +9,16 @@
 Me chamo Kauã Rodrigues, tenho 21 anos e moro em Santarém - PA. Atualmente curso Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonado por tecnologia, curioso sobre hardware e fascinado pelo desenvolvimento de software.
 
 Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tornar Engenheiro de Software e desenvolvedor FullStack.
+
+<h3 align="left">Projetos ~</h3>
+
+**🛒 MercadoFlow** · *em desenvolvimento*<br>
+Sistema de gestão de chamados de suporte para supermercados, multiempresa, com cinco perfis de acesso e isolamento de dados entre empresas. App em Flutter para web e Android, com notificações push e leitura offline dos chamados. Desenvolvido com Spec-Driven Development e testes de integração com Testcontainers.<br>
+`Java` `Spring Boot` `Flutter` `PostgreSQL` `JWT` `Docker`
+
+**🔌 ResistorLab** · *LATEC — Liga Acadêmica de Tecnologias, UNAMA*<br>
+Plataforma educacional de eletrônica: calculadora de resistores (3 a 6 faixas), Lei de Ohm, divisor de tensão e visualização 3D do resistor. Professores criam salas virtuais com questionários em tempo real e acompanham métricas de desempenho dos alunos. Versão web de um app desktop em Python.<br>
+`PHP` `MySQL` `JavaScript` `Canvas API` `OAuth Google`
  
 #
 
@@ -42,14 +52,6 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
     title="JavaScript"
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Node.js"
-    title="Node.js"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
 />
 
 <img
@@ -89,14 +91,6 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
 
 <img
     align="left"
-    alt="Dart"
-    title="Dart"
-    width="33px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"
-/>
-
-<img
-    align="left"
     alt="Flutter"
     title="Flutter"
     width="30px"
@@ -109,22 +103,6 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
     title="Python"
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Laravel"
-    title="Laravel"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
 />
 
 
@@ -142,14 +120,6 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
     title="Docker"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-/>
-
-<img
-    align="left"
-    alt="AWS"
-    title="AWS"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
 
 <br/>
