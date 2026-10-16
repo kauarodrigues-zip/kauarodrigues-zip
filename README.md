@@ -45,7 +45,10 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
 <img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+  <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</picture>
 
 <br/>
 <br/>
@@ -53,20 +56,8 @@ Sou formado em Gestão de TI, mas atualmente estou migrando de área para me tor
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-one-sooty-87.vercel.app/api?username=kauarodrigues-zip&show_icons=true&locale=pt-br&include_all_commits=true&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats-one-sooty-87.vercel.app/api/top-langs/?username=kauarodrigues-zip&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
+  <img align="left" width="49%" alt="GitHub Stats" src="https://github-readme-stats-one-sooty-87.vercel.app/api?username=kauarodrigues-zip&show_icons=true&locale=pt-br&include_all_commits=true&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
+  <img align="left" width="49%" alt="Linguagens mais usadas" src="https://github-readme-stats-one-sooty-87.vercel.app/api/top-langs/?username=kauarodrigues-zip&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&card_width=467&hide_progress=true" />
 </p>
 
 <p align="center">
